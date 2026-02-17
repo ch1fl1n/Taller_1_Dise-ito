@@ -57,6 +57,7 @@ Se implementó el **patrón Factory Method**, delegando la creación de objetos 
       v      v      v   v      v      v   v      v      v
  Player  Bullet  Background  Player  Bullet  Background  Player Bullet Background
 Renderer Renderer Renderer  Renderer Renderer Renderer  Renderer Renderer Renderer
+```
 
 
 
