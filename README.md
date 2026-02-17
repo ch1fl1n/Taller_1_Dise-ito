@@ -35,7 +35,7 @@ Se implementó el **patrón Factory Method**, delegando la creación de objetos 
 
 ## Diagrama del Factory Method
 
-
+```text
                    +--------------------+
                    |   StyleMenu        |
                    +--------------------+
