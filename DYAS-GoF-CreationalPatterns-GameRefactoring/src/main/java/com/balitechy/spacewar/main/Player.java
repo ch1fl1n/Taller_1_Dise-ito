@@ -47,4 +47,11 @@ public class Player {
     public void render(Graphics g) {
         renderer.render(g, this);
     }
+
+    public void setRenderers(PlayerRenderer renderer,
+                         BulletRenderer bulletRenderer) {
+    this.renderer = renderer;
+    this.bulletRenderer = bulletRenderer;
+}
+
 }
